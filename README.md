@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krushang Savaliya</h1>
- <img width="400" height="400" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="krushangsavaliya" />  
+<img width="400" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="krushangsavaliya" />  
 <h3 align="center">Empowering Web Development with MERN Stack Expertise 💻 from India</h3>
 <p>
   Currently, I’m pursuing my Bachelor’s degree in Computer Engineering at <strong>LDRP Institute of Technology and Research (LDRP-ITR)</strong> in Gandhinagar.
