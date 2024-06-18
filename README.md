@@ -34,12 +34,6 @@
   <img src="https://user-images.githubusercontent.com/83437527/244478361-25e8e3da-7496-4511-b501-41c0b5b963fa.gif" width="300"/>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.github.com/krushang-07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="krushang-07" /></a><a href="https://ko-fi.com/krushang-07"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="krushang-07" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushang-07&show_icons=true&locale=en&layout=compact" alt="krushang-07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krushang-07&show_icons=true&locale=en" alt="krushang-07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krushang-07&" alt="krushang-07" /></p>
 <p align="center">
