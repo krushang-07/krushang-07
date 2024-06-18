@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Krushang Savaliya</h1>
 <img width="400" align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="krushangsavaliya" />
-<h3 align="right">Empowering Web Development with MERN Stack Expertise 💻 from India</h3>
+<h3 align="right padding="10px">Empowering Web Development with MERN Stack Expertise 💻 from India</h3>
 <p>
   Currently, I’m pursuing my Bachelor’s degree in Computer Engineering at <strong>LDRP Institute of Technology and Research (LDRP-ITR)</strong> in Gandhinagar.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krushang-07&color=green" alt="krushangsavaliya" /> </p>
+
+<br/>
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krushang-07" alt="krushang-07" /></a> </p>
 
