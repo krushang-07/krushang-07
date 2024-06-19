@@ -37,5 +37,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krushang-07&" alt="krushang-07" /></p>
 <p align="center">
-  I’m always excited to connect with like-minded individuals. Whether you have a project in mind or just want to chat about tech, feel free to reach out!
+  I’m always excited to connect with like-minded individuals. Whether you have a project in mind or just want to chat about tech, feel free to reach out!!
 </p>
