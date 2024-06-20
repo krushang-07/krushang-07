@@ -38,6 +38,11 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krushang-07&" alt="krushang-07" /></p>
+
+
+<p align = "center">
+  
+[![Krushang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krushang-07&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/mayankyadav1711)
 <p align="center">
   I’m always excited to connect with like-minded individuals. Whether you have a project in mind or just want to chat about tech, feel free to reach out!!
 </p>
