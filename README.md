@@ -37,7 +37,11 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krushang-07&" alt="krushang-07" /></p>
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=krushang-07&theme=radical)]()
+  
+</div>
 
 
 <p align = "center">
