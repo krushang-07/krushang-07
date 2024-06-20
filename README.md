@@ -9,7 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krushang-07&color=green" alt="krushangsavaliya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krushang-07" alt="krushang-07" /></a> </p>
+<div align="center" > <a href="https://github.com/marketplace/actions/auto-assign-pr-and-issues"><img src="https://github-profile-trophy.vercel.app/?username=krushang-07&row=3&column=3&theme=onedark" alt="Utsav stats" /></a> </div> <br/> <br/>
+<div align="center">
 
 <h2 align="center">About Me</h2>
 <p align="center">
