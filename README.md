@@ -33,7 +33,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krushang-07&show_icons=true&locale=en" alt="krushang-07" /></p>
 
-  <img src="https://user-images.githubusercontent.com/83437527/244478361-25e8e3da-7496-4511-b501-41c0b5b963fa.gif" width="300"/>
+<div align="center">
+  
+[![Krushang's GitHub stats](https://github-readme-stats.vercel.app/api?username=krushang-07&show_icons=true&theme=radical)]()
+</div> <br>
 </p>
 
 
