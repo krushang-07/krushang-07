@@ -49,11 +49,6 @@
 </p>
 
 
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=krushang-07&theme=radical)]()
-  
-</div>
 
 
 <p align = "center">
