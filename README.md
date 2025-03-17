@@ -22,7 +22,7 @@
 </p>
 <h3 align="left">My Projects on npm:</h3>
 
-- json-to-env-ks[downloads](https://npm.chart.dev/json-to-env-ks).
+"json-to-env-ks" new version downloads [downloads](https://npm.chart.dev/json-to-env-ks).
 
 <p align="center">
   📬 Feel free to reach out to me at: 
