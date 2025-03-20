@@ -20,7 +20,7 @@
   <br><br>
   🚀 My current focus is on mastering JavaScript frameworks and libraries to deliver high-quality projects. I’m always open to collaboration and eager to contribute to innovative tech communities.
 </p>
-<h3 align="left">My Projects on npm:</h3>
+<h3 align="left">My Projects on npm</h3>
 
 "json-to-env-ks" new version downloads [downloads](https://npm.chart.dev/json-to-env-ks).
 
@@ -52,11 +52,8 @@
 </div> <br>
 </p>
 
-
-
-
 <p align = "center">
-  
+
 
 <p align="center">
   I’m always excited to connect with like-minded individuals. Whether you have a project in mind or just want to chat about tech, feel free to reach out!!
